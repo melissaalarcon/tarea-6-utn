@@ -1,0 +1,14 @@
+.container{
+    border: 1px solid black;
+    height: 400px;
+    box-sizing: border-box;
+}
+.red{
+    background-color: red;
+}
+.blue{
+    background-color: blue;
+}
+.green{
+    background-color: green;
+}
