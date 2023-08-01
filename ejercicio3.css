@@ -1,0 +1,28 @@
+.container{
+    border: 1px solid black;
+    width: 800px;
+    box-sizing: border-box;
+    display: inline-flex;
+    justify-content: space-between;
+}
+.red{
+    background-color: red;
+    height: 166px;
+    width: 166px;
+    text-align: center;
+    line-height: 166px;
+}
+.blue{
+    background-color: blue;
+    height: 166px;
+    width: 166px;
+    text-align: center;
+    line-height: 166px;
+}
+.green{
+    background-color: green;
+    height: 166px;
+    width: 166px;
+    text-align: center;
+    line-height: 166px;
+}

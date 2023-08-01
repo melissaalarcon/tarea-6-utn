@@ -1,14 +1,36 @@
 .container{
     border: 1px solid black;
-    height: 400px;
+    height: 500px;
+    width: 500px;
     box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    left: 100px;
 }
 .red{
     background-color: red;
+    height: 166px;
+    width: 166px;
+    text-align: center;
+    line-height: 166px;
+    position: relative;
+    left: 332px;
 }
 .blue{
     background-color: blue;
+    height: 166px;
+    width: 166px;
+    text-align: center;
+    line-height: 166px;
+    position: relative;
+    left: 332px;
 }
 .green{
     background-color: green;
+    height: 166px;
+    width: 166px;
+    text-align: center;
+    line-height: 166px;
+    position: relative;
+    left: 332px;
 }
